@@ -1,0 +1,1 @@
+tellraw @a {"text": "Welcome to Terra's QoL Datapack (for admins.)","color":"dark_red"}

@@ -1,0 +1,1 @@
+tellraw @a {"text":"Click Me!\nHover Me!","color":"gold","hoverEvent": {"action": "show_text","value":"Hover Me!"}}
